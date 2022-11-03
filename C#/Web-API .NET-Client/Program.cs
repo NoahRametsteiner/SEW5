@@ -169,24 +169,24 @@ namespace HttpClientSample
                 cars = await GetCarAsync(url1.PathAndQuery);
                 ShowCar(cars);
 
-                /*
+                
                 // Update the cars
                 Console.WriteLine("Updating Tpy...");
                 cars.Typ = "UpTyp";
                 await UpdateCarAsync(cars);
-                */
 
-                /*
+
+
                 // Get the updated cars
-                product = await GetCarAsync(url.PathAndQuery);
+                cars = await GetCarAsync(url1.PathAndQuery);
                 ShowCar(cars);
-                */
+                
 
-                /*
+                
                 // Delete the cars
-                var statusCode = await DeleteCarAsync(product.Id.ToString());
+                var statusCode = await DeleteCarAsync(cars.Id.ToString());
                 Console.WriteLine($"Deleted (HTTP Status = {(int)statusCode})");
-                */
+                
                 #endregion
 
                 #region TelemetryAPIRequest
@@ -194,28 +194,31 @@ namespace HttpClientSample
                 var url2 = await CreateTelemetryAsync(telemetry);
                 Console.WriteLine($"Created at {url2}");
 
+
                 // Get the telemetry
                 telemetry = await GetTelemetryAsync(url2.PathAndQuery);
                 ShowTelemetry(telemetry);
+#
 
-                /*
+                /*Does not work
+                 * 
+                 * Update throwes " System.NullReferenceException: 'Object reference not set to an instance of an object.' " exeption in API
+                 * Delete gives back 404 code
+                 * 
                 // Update the telemetry
-                Console.WriteLine("Updating Tpy...");
+                Console.WriteLine("Updating telemetry...");
                 telemetry.Speed = 88;
                 await UpdateTelemetryAsync(telemetry);
-                //*/
 
-                /*
                 // Get the updated telemetry
-                telemetry = await GetCarAsync(url.PathAndQuery);
-                ShowCar(telemetry);
-                */
+                telemetry = await GetTelemetryAsync(url2.PathAndQuery);
+                ShowTelemetry(telemetry);
 
-                /*
-                // Delete the cars
-                var statusCode = await DeleteTelemetryAsync(product.Id.ToString());
-                Console.WriteLine($"Deleted (HTTP Status = {(int)statusCode})");
-                */
+                // Delete the telemetry
+                var statusCodeTel = await DeleteTelemetryAsync(Telemetry.Id.ToString());
+                Console.WriteLine($"Deleted (HTTP Status = {(int)statusCodeTel})");
+                
+                 */
 
                 #endregion
 

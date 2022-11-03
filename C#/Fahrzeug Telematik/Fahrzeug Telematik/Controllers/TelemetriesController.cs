@@ -54,7 +54,7 @@ namespace Fahrzeug_Telematik.Controllers
 
             telemetry.ModifiedAt = DateTime.Now;
 
-            telemetry.CreatedAt = _context.Cars.Find(id).CreatedAt;
+            telemetry.CreatedAt = _context.Telemetrys.Find(id).CreatedAt;
             _context.Entry(telemetry).State = EntityState.Modified;
 
             try

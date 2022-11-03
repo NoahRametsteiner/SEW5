@@ -17,3 +17,22 @@ C:\Users\Notsch\Desktop\ALL\SEW\5\C#\Web-API .NET-Client\obj\Debug\net6.0\refint
 C:\Users\Notsch\Desktop\ALL\SEW\5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.pdb
 C:\Users\Notsch\Desktop\ALL\SEW\5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.genruntimeconfig.cache
 C:\Users\Notsch\Desktop\ALL\SEW\5\C#\Web-API .NET-Client\obj\Debug\net6.0\ref\Web-API .NET-Client.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\bin\Debug\net6.0\Web-API .NET-Client.exe
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\bin\Debug\net6.0\Web-API .NET-Client.deps.json
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\bin\Debug\net6.0\Web-API .NET-Client.runtimeconfig.json
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\bin\Debug\net6.0\Web-API .NET-Client.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\bin\Debug\net6.0\Web-API .NET-Client.pdb
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.csproj.AssemblyReference.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.AssemblyInfoInputs.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.AssemblyInfo.cs
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.csproj.CoreCompileInputs.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.csproj.CopyComplete
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\refint\Web-API .NET-Client.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.pdb
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\Web-API .NET-Client.genruntimeconfig.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\SEW5\C#\Web-API .NET-Client\obj\Debug\net6.0\ref\Web-API .NET-Client.dll
