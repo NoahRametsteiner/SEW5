@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWI9JLU6fdauUyBxowIa+xN5/SQVKIZBhUlbwTvT8SRZT4vur/+0nuQ61Au/Rhr+Da1eF6SmU0DvYvxk1UDqUw==",
+  "dgSpecHash": "L7E75TqfVAdSNzB9S+kq45vmQg1QGARKB2XE8kpIeeBwJnXFChW+zTFpfaYn8o8uMjAhFxGQdkghEJV0kABJ6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\SEW5\\C#\\Web-API .NET-Client\\Web-API .NET-Client.csproj",
+  "projectFilePath": "C:\\Users\\Notsch\\Desktop\\ALL\\SEW\\SEW5\\C#\\Web-API .NET-Client\\Web-API .NET-Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Notsch\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\Notsch\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

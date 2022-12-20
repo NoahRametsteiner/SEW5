@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\SEW5\\C#\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Notsch\\Desktop\\ALL\\SEW\\SEW5\\C#\\WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\SEW5\\C#\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Notsch\\Desktop\\ALL\\SEW\\SEW5\\C#\\WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\SEW5\\C#\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Notsch\\Desktop\\ALL\\SEW\\SEW5\\C#\\WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\SEW5\\C#\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Notsch\\Desktop\\ALL\\SEW\\SEW5\\C#\\WebAPI\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Notsch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\SEW5\\C#\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Notsch\\Desktop\\ALL\\SEW\\SEW5\\C#\\WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Notsch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,8 +69,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -82,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
